@@ -1,0 +1,33 @@
+Installtion Doc
+
+1. NodeJs
+2. Go to https://nodejs.org/en/
+3. Install the LTS version available
+4. Verify the node version using "node -v"
+5. Version >6.0 is required for Angular
+6. Verify the NPM version by using "npm -v"
+7. npm version should be greater than 3
+8. Run "npm i -g npm" to update to update the npm version
+
+
+IDE
+
+1. go to https://code.visualstudio.com/Download and install the VS Code as per OS
+
+
+TypeScript
+
+1. run "npm install -g typescript" from CMD
+2. to verify installation "tsc -v"
+
+
+NPM:
+
+Known as Node Package Manager, from  where we can install any library
+
+
+Angular CLI:
+
+1. to install run "npm install -g @angular/cli@latest"
+2. this will help us to create a starter template/new project/scaffolding
+3. You can get documentation from "https://cli.angular.io/"

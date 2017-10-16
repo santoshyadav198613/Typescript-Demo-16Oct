@@ -1,0 +1,16 @@
+What is typescript
+1. created by microsoft in 2011
+2. It is a superset of javascript
+3. It helps us to generate the most optimized javascript code.
+4. It is typesafe
+5. No complile time error in javascript, but do exist in typescript
+6. Transpilation is the process for converting ts to js
+7. Easy to upgarade the js version, if we have written our code using typescript.
+
+
+
+to create a js file from ts
+1. run "tsc <filename>"
+
+To run a js file
+1. node <filename>
