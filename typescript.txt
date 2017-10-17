@@ -14,3 +14,11 @@ to create a js file from ts
 
 To run a js file
 1. node <filename>
+
+to create a typescript configuration file:
+1. run "tsc -init", which will create tsconfig.json file.
+
+
+How to create a build task for typescript:
+1. Go to Task -> Configure Default Build task
+2. Go to Task -> Run Build Task
